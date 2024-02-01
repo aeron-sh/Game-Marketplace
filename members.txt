@@ -1,0 +1,8 @@
+UTORID,GITHUB USERNAME,GROUP MEMBER 1
+brarpars,BrarParson,Parson Brar
+UTORID,GITHUB USERNAME,GROUP MEMBER 3
+kosunghw, kosunghw, Sunghwan Ko
+UTORID,GITHUB USERNAME,GROUP MEMBER 2
+alihashir, aliHashir051, Hashir Ali
+UTORID,GITHUB USERNAME,GROUP MEMBER 4
+aeronsha, aeron-sh, Shantanu Aeron
